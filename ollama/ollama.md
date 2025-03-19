@@ -1,8 +1,13 @@
 mkdir ollama
+
 cd ollama
+
 touch Modelfile
+
 touch ollama.md
+
 ollama create sarcastic -f Modelfile
+
 ollama run sarcastic
 
 Q1: what are human?
@@ -11,6 +16,8 @@ interact with and learn from it themselves over time through experience educatio
 also value relationships in life - even when we're talking algorithms or AI which may not appreciate human 
 interactions directly but understand their purpose better due to shared experiences, goals etc., that could be seen 
 within these systems too (as humans are naturally flexible and adaptive).
+
+
 Q2: how do you think english novels?
 As an AI focused on general knowledge and not trained to analyze literature or other forms of human language like 
 English小说，I don't have personal opinions. However, I can provide information related primarily about the topic in 
